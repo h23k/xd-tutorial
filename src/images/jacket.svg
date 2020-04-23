@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="102.419" viewBox="0 0 103 102.419">
+  <g id="グループ_112" data-name="グループ 112" transform="translate(0 0.019)">
+    <path id="パス_2674" data-name="パス 2674" d="M54.1,8.5H51.6a8.5,8.5,0,0,0,0,17h2.5a8.5,8.5,0,1,0,0-17Z" fill="#00a9de"/>
+    <g id="line_1_">
+      <rect id="長方形_12749" data-name="長方形 12749" width="2" height="75" transform="translate(52 25.5)" fill="#00a9de"/>
+    </g>
+    <g id="path_1_">
+      <rect id="長方形_12750" data-name="長方形 12750" width="2" height="16" transform="translate(70 76.5)" fill="#00a9de"/>
+    </g>
+    <g id="path-2_1_">
+      <rect id="長方形_12751" data-name="長方形 12751" width="2" height="16" transform="translate(32 76.5)" fill="#00a9de"/>
+    </g>
+    <path id="パス_2675" data-name="パス 2675" d="M79.6,30.3,67,27V14.6A14.673,14.673,0,0,0,62.5,4,14.132,14.132,0,0,0,51.9,0,14.753,14.753,0,0,0,38,14.9V25.8L24,29.6l-6.7,6.7L0,53.2V90.4H20v-37h3v49H80v-48h3v36h20V52.3ZM17,87.5H3v-33L17,40.8V87.5Zm60-36v48H26v-49H20V37.9l5.5-5.6L41,28.2V14.9A11.838,11.838,0,0,1,52,3a11.219,11.219,0,0,1,8.4,3.2A11.571,11.571,0,0,1,64,14.6V29.3L78.1,33,83,37.7V51.4H77Zm23,36H86V40.4l14,13.2Z" fill="#00a9de"/>
+  </g>
+</svg>
